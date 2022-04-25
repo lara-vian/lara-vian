@@ -1,6 +1,6 @@
 # Olá, meu nome é Lara
 
-- 🔭 Hojé estou trabalhando com javaScript, desenvolvendo um jogo
+- 🔭 Hoje estou trabalhando com javaScript, desenvolvendo um jogo
 - 🌱 Estou estudando python
 - 📫 Contate-me no meu e-mail : lara.vsteinbach@gmail.com 
 - 😄 Pronomes: Ela/ Dela
