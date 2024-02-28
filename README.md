@@ -1,7 +1,7 @@
 # Olá, meu nome é Lara
 
-- 🔭 Hoje estou trabalhando com TypeScript, desenvolvendo um VTT e também estou codando alguns progetos pessoais.
-- 🌱 Estou estudando C#
+- 🔭 Hoje estou trabalhando com TypeScript, desenvolvendo um VTT e também estou codando alguns outros progetos pessoais.
+- 🌱 Estou aprofundando estudos em React
 - 📫 Contate-me no meu e-mail : lara.vsteinbach@gmail.com 
 - 😄 Pronomes: Ela/ Dela
 
